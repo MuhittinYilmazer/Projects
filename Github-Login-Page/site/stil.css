@@ -1,0 +1,43 @@
+.main_div{
+    margin-top: 90px;
+}
+
+.image_settings{
+    alignment: center;
+    max-width: 300px;
+    height: auto;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+
+.form_style{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 21%;
+}
+
+.form_input{
+    line-height: 30px;
+    margin: 10px;
+
+}
+.form_submit{
+    line-height: 35px;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 10px;
+
+    color: white;
+    background-color: royalblue;
+}
+.form_submit:hover{
+    background-color: #527dff;
+}
