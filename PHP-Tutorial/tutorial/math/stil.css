@@ -1,0 +1,28 @@
+.kartım{
+    background-color: lawngreen;
+
+    text-align: center;
+
+    margin-top:30px;
+    margin-bottom: 20px;
+
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+    border-color: gray;
+    border:solid;
+}
+.kartım:hover{
+    background-color: greenyellow;
+
+    text-align: center;
+
+
+
+
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+    border-color: gray;
+    border:solid;
+}
