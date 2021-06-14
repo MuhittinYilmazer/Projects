@@ -6,7 +6,7 @@ $PROXY_USER = "LOGIN";    // Username
 $PROXY_PASS = "PASSWORD";   // Password
 
 $arrContextOptions = array(
-    //disabling ssl verifying
+    //DISABLING SSL VERIFYING
     "ssl" => array(
         "verify_peer" => false,
         "verify_peer_name" => false,
